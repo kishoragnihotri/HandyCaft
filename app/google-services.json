@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084237551485",
+    "firebase_url": "https://handycaft-e7b97.firebaseio.com",
+    "project_id": "handycaft-e7b97",
+    "storage_bucket": "handycaft-e7b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084237551485:android:c2699efbf2269a596c5e14",
+        "android_client_info": {
+          "package_name": "com.kishor.agnihotri.handycaft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084237551485-ia3idsl31c7u2nn78n8fpdin0lt57e25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kishor.agnihotri.handycaft",
+            "certificate_hash": "95795e6a5e1bfc38b1af4eab984c4ec90ca4aafd"
+          }
+        },
+        {
+          "client_id": "1084237551485-igsf2opd68bfimn8hb0231l8nnnrme9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30z6tvpbtfrzFlJs7Wj6g8noGlOSMoe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084237551485-igsf2opd68bfimn8hb0231l8nnnrme9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
